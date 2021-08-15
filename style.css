@@ -10,10 +10,11 @@ img{
 	height: 250px;
 	width: 250px;
 	border-radius: 250px;
+	margin: 50px;
 }
 
 #landing{
-	height: 80vh;
+	height: 95vh;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -21,7 +22,7 @@ img{
 }
 
 #gallery{
-	height: 75vh;
+	height: 90vh;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
